@@ -25,7 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Ayush Sahu",
-  title: "Security Analyst, Postman Student Leader, Microsoft Learn Studnet Ambassador & Community Enthusiast",
+  title:
+    "Security Analyst, Postman Student Leader, Microsoft Learn Studnet Ambassador & Community Enthusiast",
   email: "ayushs.7477@gmail.com",
   gitHub: "AyushSahu77",
   instagram: "",
